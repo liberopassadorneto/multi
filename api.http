@@ -1,0 +1,2 @@
+### GET the Faster CEP
+GET http://localhost:8080/?cep=89010025
